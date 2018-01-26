@@ -7,7 +7,7 @@ The ZipRecruiter Search API enables our search Publisher partners to write softw
 This PHP library wraps the ZipRecruiter Search API and allows you to do some advanced job searches.
 
 # How to Use?
-First, require the unit `class.ziprecruiter.php' and you can create the ZipRecruiter object by passing the APP_KEY.
+First, require the unit `class.ziprecruiter.php` and you can create the ZipRecruiter object by passing the APP_KEY.
 
 ```
 $key = "APP_KEY";
