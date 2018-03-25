@@ -51,3 +51,9 @@ Unit tests are coming on the way...
 
 # Live Example
 The above sample has been integrated live:  https://helloacm.com/software-engineering-jobs/
+
+# Chrome Extension
+https://chrome.google.com/webstore/detail/job-tools/ghclpimmbjepihhlnklkiemncamklkii
+
+# Sister Project
+https://github.com/DoctorLai/JobTools
